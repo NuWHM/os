@@ -5,7 +5,7 @@ A PHP framework agnostic component to detect the running OS name, version and fa
 ## Installation
 
 ```
-`composer require nuwhm/os`
+composer require nuwhm/os
 ```
 
 ## Usage
